@@ -6,7 +6,7 @@
 ### Optimization Modeling Portfolio
 - Compiled portfolio of over 30 optimization modeling problems relating to scheduling, resource allocation, route optimization, project selection, and distribution
   
-### Pet Store Database Creation, ETL, Data Warehouseing Project
+### [Pet Store Database Creation, ETL, Data Warehouseing Project](https://github.com/katie-eiswerth/Data-Warehousing-Project)
 - Designed and built a database and data warehouse in Microsoft SQL Server, performed ETL tasks in SSIS, and conducted tabular and multidimensional analysis to address business questions for a pet supplies store. 
 
 ### Tree Service Company Database Creation 
