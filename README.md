@@ -15,6 +15,9 @@
 ### [Text Mining Project](https://github.com/katie-eiswerth/health.gov-Text-Mining-Project)
 - Performed web scraping and text analytics R to analyze discussions around public health, popular topics, and trends over time, based on articles published by the Office of Disease Prevention and Health Promotion.
 
+### Sleep and Health Data Visualization Project
+- Utilized tableau to present and communicate insights on the relationship between sleep, physical health, lifestyle choices, and demographics.
+
 ### [Research Thesis](https://github.com/katie-eiswerth/Research-Thesis)           
 - Worked with Dr. Alison Sanchez to study the accessibility of quality healthcare for foster youth through literature review, conducting interviews with current or previous employees in the child welfare system, data visualization, and quantitative and qualitative analysis of our findings.  
 
