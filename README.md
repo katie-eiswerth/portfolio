@@ -15,7 +15,7 @@
 ### [Text Mining Project](https://github.com/katie-eiswerth/health.gov-Text-Mining-Project)
 - Performed web scraping and text analytics R to analyze discussions around public health, popular topics, and trends over time, based on articles published by the Office of Disease Prevention and Health Promotion.
 
-### Sleep and Health Data Visualization Project
+### [Sleep and Health Data Visualization Project](https://github.com/katie-eiswerth/Sleep-and-Health-Data-Visualization)
 - Utilized tableau to present and communicate insights on the relationship between sleep, physical health, lifestyle choices, and demographics.
 
 ### [Research Thesis](https://github.com/katie-eiswerth/Research-Thesis)           
