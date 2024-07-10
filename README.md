@@ -51,5 +51,7 @@ In this repository, you can explore some of my recent analytics projects.
 
 ## Contact Information
 Email: katieeiswerth@gmail.com
+
 Phone: 970-372-7104
+
 LinkedIn: https://www.linkedin.com/in/katie-eiswerth/
