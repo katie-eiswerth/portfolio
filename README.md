@@ -48,3 +48,8 @@ In this repository, you can explore some of my recent analytics projects.
 
 #### [Undergraduate Thesis](https://github.com/katie-eiswerth/Research-Thesis)           
 - Worked with Dr. Alison Sanchez to study the accessibility of quality healthcare for foster youth through literature review, conducting interviews with current or previous employees in the child welfare system, data visualization, and quantitative and qualitative analysis of our findings.  
+
+## Contact Information
+Email: katieeiswerth@gmail.com
+Phone: 970-372-7104
+LinkedIn: https://www.linkedin.com/in/katie-eiswerth/
