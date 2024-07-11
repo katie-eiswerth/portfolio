@@ -25,6 +25,17 @@ In this repository, you can explore some of my recent analytics projects.
 
 #### [Text Mining Project](https://github.com/katie-eiswerth/health.gov-Text-Mining-Project)
 - Performed web scraping and text analytics R to analyze discussions around public health, popular topics, and trends over time, based on articles published by the Office of Disease Prevention and Health Promotion.
+
+### Data Visualization Projects
+
+#### [Oracle Stock Price Reporting]
+- Created Power BI dashboards to track and report Oracle stock prices over time.
+  
+#### [Retail Sales and Profitability]
+- Utilized Power BI to report sales and profitability data by category, sub-category, and retail for a global retail store.
+
+#### [Sleep and Health Data Visualization Project](https://github.com/katie-eiswerth/Sleep-and-Health-Data-Visualization)
+- Utilized tableau to present and communicate insights on the relationship between sleep, physical health, lifestyle choices, and demographics.
   
 ### Data Management Projects 
 
@@ -38,11 +49,6 @@ In this repository, you can explore some of my recent analytics projects.
 
 #### [Optimization Modeling Portfolio](https://github.com/katie-eiswerth/Optimization-Portfolio)
 - Compiled portfolio of over 30 optimization modeling problems relating to scheduling, resource allocation, route optimization, project selection, and distribution
-
-### Data Visualization Project
-
-#### [Sleep and Health Data Visualization Project](https://github.com/katie-eiswerth/Sleep-and-Health-Data-Visualization)
-- Utilized tableau to present and communicate insights on the relationship between sleep, physical health, lifestyle choices, and demographics.
 
 ### Research
 
