@@ -28,10 +28,10 @@ In this repository, you can explore some of my recent analytics projects.
 
 ### Data Visualization Projects
 
-#### [Oracle Stock Price Reporting]
+#### [Oracle Stock Price Reporting](https://github.com/katie-eiswerth/Oracle-Stock-Price-Reporting-Dashboards/tree/main)
 - Created Power BI dashboards to track and report Oracle stock prices over time.
   
-#### [Retail Sales and Profitability]
+#### [Retail Sales and Profitability](https://github.com/katie-eiswerth/Retail-Sales-and-Profitability-Dashboards)
 - Utilized Power BI to report sales and profitability data by category, sub-category, and retail for a global retail store.
 
 #### [Sleep and Health Data Visualization Project](https://github.com/katie-eiswerth/Sleep-and-Health-Data-Visualization)
