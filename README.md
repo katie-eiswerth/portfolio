@@ -3,7 +3,7 @@
 
 
 ### About
-Hi, I'm Katie! I am completing my masters in business analytics at the University of Denver, with an expected graduation of August, 2024. Upon graduating, I hope to pursue a career in healthcare analytics. I am driven to apply my analytic knowledge and training to the advancement of healthcare delivery. In my previous professional and academic work, I have built skills in data management, statistical analysis, programming languages, and analytical modeling, with a focus on identifying the "so what" of every problem.
+Hi, I'm Katie! I am completing my masters in business analytics at the University of Denver, with an expected graduation of August, 2024. Upon graduating, I hope to pursue a career as an analytics in the healthcare, technology, or healthtech field. In my previous professional and academic work, I have built skills in data management, statistical analysis, programming languages, and analytical modeling, with a focus on identifying the "so what" of every problem.
 
 My skills and certifications include:
 - Programming Languages: Python (Certified Entry Level Programmer), R, SQL
